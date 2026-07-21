@@ -3,7 +3,7 @@
 - **Youtube VIDEO** for step by step Local Setup Guide : https://youtu.be/mLFPodZO8Iw
 - **Youtube VIDEO** for local setup of tender management project: https://www.youtube.com/watch?v=7CE3aY4e644
 <!--Check out the Live website demo: [https://theonlinebookstore.herokuapp.com](https://theonlinebookstore.herokuapp.com)-->
-- User Login Credentials: (shashi/shashi)
+- User Login Credentials: (Rajeshwari)
 - Admin Login Credentials: (Admin/Admin)
 <hr>
 
@@ -119,7 +119,7 @@ Step 6: Check Running The Site At  <a href="http://localhost:8083/onlinebookstor
 
 Step 7: Default Username And Password For Admin Is "Admin" And "Admin"
 
-Step 8: The default Username And Password For User Is "shashi" And "shashi"
+Step 8: The default Username And Password For User Is "rajeshwari" And "rajeshwari"
 
 ## FAQ
 **Question:1** Unable to Connect to Database?
@@ -144,4 +144,4 @@ Note:- Considering this as a Sample Project, we have not much considered of web 
 #webhook edited
 #webhook-302 error resolving
                                                                                                         Project Leader<br/>
-                                                                                                         <b>Raj</b>
+                                                                                                         <b>Rajeshwari</b>
